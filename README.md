@@ -1,4 +1,4 @@
-Study project Go <br />
+## Study project Go <br />
 / -> returns index.html <br />
 /hello -> returns "hello!" <br />
 /form.html -> returns form.html <br />
