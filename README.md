@@ -1,5 +1,5 @@
-Study project Go \n
-/ -> returns index.html \n
-/hello -> returns "hello!" \n
-/form.html -> returns form.html \n
-/form -> returns form with data from /form.html \n
+Study project Go <br />
+/ -> returns index.html <br />
+/hello -> returns "hello!" <br />
+/form.html -> returns form.html <br />
+/form -> returns form with data from /form.html <br />
